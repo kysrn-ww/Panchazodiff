@@ -1837,10 +1837,10 @@ do
         local viewportsize = camera.ViewportSize
         if credits == nil then
             credits = newdrawing("Text", {
-                Text = ".Kysrn On top"; -- yes now be happy this is free
+                Text = "Aimbot Enabled .Kysrn"; -- yes now be happy this is free
                 Color = Color3.new(255,255,255);
-                Size = 25.0;
-                Transparency = .8;
+                Size = 15.0;
+                Transparency = .6;
                 Position = v2new(viewportsize.X/8, 6);
                 Outline = true;
                 Visible = true;
